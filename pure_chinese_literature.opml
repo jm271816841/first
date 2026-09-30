@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>中文纯文学·写作技巧·读书（可直接导入）</title>
+    <dateCreated>Wed, 30 Sep 2026 00:00:00 +0000</dateCreated>
+    <ownerName>jm271816841</ownerName>
+    <ownerEmail></ownerEmail>
+  </head>
+  <body>
+    <outline text="中文纯文学·写作技巧·读书" title="中文纯文学·写作技巧·读书">
+      <outline type="rss" text="中国作家网（文学资讯）" title="中国作家网" xmlUrl="https://www.chinawriter.com.cn/rss/chinawriter.xml" htmlUrl="https://www.chinawriter.com.cn/" />
+      <outline type="rss" text="中国作家网·文艺理论与文学评论" title="文艺理论与文学评论" xmlUrl="https://www.chinawriter.com.cn/rss/lywlxw.xml" htmlUrl="https://www.chinawriter.com.cn/" />
+      <outline type="rss" text="中国作家网·人民文学" title="人民文学" xmlUrl="https://www.chinawriter.com.cn/rss/renminwenxue.xml" htmlUrl="https://www.chinawriter.com.cn/" />
+      <outline type="rss" text="中国作家网·收获" title="收获" xmlUrl="https://www.chinawriter.com.cn/rss/shouhuo.xml" htmlUrl="https://www.chinawriter.com.cn/" />
+      <outline type="rss" text="澎湃·文学" title="澎湃·文学" xmlUrl="https://www.thepaper.cn/rss.jsp?pid=1203" htmlUrl="https://www.thepaper.cn/" />
+      <outline type="rss" text="澎湃·读书" title="澎湃·读书" xmlUrl="https://www.thepaper.cn/rss.jsp?pid=1205" htmlUrl="https://www.thepaper.cn/" />
+      <outline type="rss" text="书格" title="书格" xmlUrl="https://www.shuge.org/feed/" htmlUrl="https://www.shuge.org/" />
+      <outline type="rss" text="左岸读书" title="左岸读书" xmlUrl="https://www.zreading.cn/feed" htmlUrl="https://www.zreading.cn/" />
+      <outline type="rss" text="Paper Republic（中文文学与翻译）" title="Paper Republic" xmlUrl="https://paper-republic.org/feed/" htmlUrl="https://paper-republic.org/" />
+      <outline type="rss" text="笨方法学写作" title="笨方法学写作" xmlUrl="https://www.cnfeat.com/feed.xml" htmlUrl="https://www.cnfeat.com/" />
+      <outline type="rss" text="豆瓣·文学（RSSHub）" title="豆瓣·文学" xmlUrl="https://rsshub.app/douban/tag/文学" htmlUrl="https://www.douban.com/tag/%E6%96%87%E5%AD%A6/" />
+      <outline type="rss" text="豆瓣·书评（RSSHub）" title="豆瓣·书评" xmlUrl="https://rsshub.app/douban/tag/书评" htmlUrl="https://www.douban.com/tag/%E4%B9%A6%E8%AF%84/" />
+      <outline type="rss" text="书页 / 文学导读" title="书页" xmlUrl="https://book.ifeng.com/rss.xml" htmlUrl="https://book.ifeng.com/" />
+      <outline type="rss" text="新京报·书评" title="新京报·书评" xmlUrl="https://rsshub.app/bjnews/book" htmlUrl="https://www.bjnews.com.cn/" />
+      <outline type="rss" text="简书·文学创作" title="简书·文学创作" xmlUrl="https://rsshub.app/jianshu/collection/540451?sort=updated_at" htmlUrl="https://www.jianshu.com/" />
+      <outline type="rss" text="简书·写作" title="简书·写作" xmlUrl="https://rsshub.app/jianshu/collection/631149?sort=updated_at" htmlUrl="https://www.jianshu.com/" />
+    </outline>
+  </body>
+</opml>
